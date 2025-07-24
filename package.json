@@ -1,0 +1,9 @@
+{
+  "name": "fake-api",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

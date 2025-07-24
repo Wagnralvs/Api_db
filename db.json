@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "title": "segundo item atualizado final",
+      "description": "Descrição do segundo item up",
+      "status": "Progresso",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 3,
+      "title": "terceiro item up",
+      "description": "descrição do terceiro item",
+      "status": "Progresso",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 4,
+      "title": "quarto item",
+      "description": "descrição do quarto item",
+      "status": "Fechado",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 5,
+      "title": "quinto item",
+      "description": "descrição do quinto item",
+      "status": "Aberto",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 7,
+      "title": "sétimo item",
+      "description": "descrição do sétimo item",
+      "status": "Aberto",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 8,
+      "title": "oitavo item",
+      "description": "descrição do oitavo item",
+      "status": "Fechado",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 9,
+      "title": "nono item",
+      "description": "descrição do nono item",
+      "status": "Aberto",
+      "data": "15/07/20257"
+    },
+    {
+      "id": 10,
+      "title": "décimo item",
+      "description": "descrição do décimo item",
+      "status": "Fechado",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 15,
+      "title": "cartões",
+      "description": "criações de cartões pf ",
+      "status": "Aberto",
+      "data": "15/07/2025"
+    },
+    {
+      "id": 17,
+      "title": "bug test",
+      "description": "criação de test auto",
+      "status": "Aberto",
+      "data": "16/07/2025"
+    },
+    {
+      "id": 18,
+      "title": "conclusão modal ",
+      "description": "modal delete concluído ",
+      "status": "Fechado",
+      "data": "16/07/2025"
+    },
+    {
+      "id": 19,
+      "title": "uppcade test",
+      "description": "tratamento filtre titulo ",
+      "status": "Aberto",
+      "data": "17/07/2025"
+    },
+    {
+      "id": 21,
+      "title": "filtro titulo ",
+      "description": "Conclusão filtro titulo",
+      "status": "Progresso",
+      "data": "17/07/2025"
+    },
+    {
+      "id": 22,
+      "title": "alert msg sucess",
+      "description": "alerta de criação de chamado",
+      "status": "Aberto",
+      "data": "17/07/2025"
+    },
+    {
+      "id": 23,
+      "title": "test 17",
+      "description": "ediçao",
+      "status": "Aberto",
+      "data": "18/07/2025"
+    },
+    {
+      "id": 24,
+      "title": "test unit",
+      "description": "cobertura 80%",
+      "status": "Aberto",
+      "data": "20/07/2025"
+    },
+    {
+      "id": 25,
+      "title": "0 simulação",
+      "description": "0 test ",
+      "status": "Aberto",
+      "data": "20/07/2025"
+    }
+  ]
+}
