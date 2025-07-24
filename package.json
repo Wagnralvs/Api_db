@@ -1,6 +1,11 @@
 {
   "name": "mock-api-node",
+   "main":"index.js",
   "scripts": {
-    "start": "node api/index.js"
-  }
+    "start": "node index.js"
+  },
+  "dependencies": {
+     "json-server": "^0.17.3"
+  },
+  "license":"ISC"
 }
