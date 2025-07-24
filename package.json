@@ -1,7 +1,7 @@
 {
   "name": "fake-api",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^0.17.0"
